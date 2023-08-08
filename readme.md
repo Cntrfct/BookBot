@@ -5,7 +5,7 @@
 
 1. Clone this repository
 2. Install `pip install -r requirements.txt`
-3. Rename `.env.example` to `.env`
+3. Rename `.env.example` to `.env` and edit it
 4. Run `python bot.py`
 
 ### Used:
